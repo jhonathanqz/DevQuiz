@@ -1,0 +1,49 @@
+[
+    {
+       
+          "title": "NLW 5 Flutter",
+          "imagem": "blocks",
+          "questionAnswered": 1,
+          "level": "facil",
+          "questions": [
+           {
+             "title": "Está curtindo o Flutter?", 
+                "awnsers": [
+                            {"title": "Estou curtindo"},
+                            {"title": "Amando Flutter"},
+                            {"title": "Muito top"},
+                            {"title": "Show de bola!", "isRight": true}
+            ]
+           } ,
+            {
+             "title": "Que tipo de informação o pubspec.yaml não engloba?", 
+                "awnsers": [
+                            {"title": "Assets, packages e versionamento."},
+                            {"title": "Informações de publicação do projeto como package público e regras específicas ao Flutter."},
+                            {"title": "Regras de negócio e estruturação de arquivos.", "isRight": true},
+                            {"title": "Versionamento de código."}
+                            
+            ]
+           },
+           {
+            "title": "Quando falamos a respeito de Programação Assíncrona, ou seja, usando async | await e Future. Sobre esse tema, qual das alternativas NÃO está correta?", 
+               "awnsers": [
+                           {"title": "Um dos exemplos, é quando estamos buscando dados em uma rede, em ordem de execução e só uma por vez."},
+                           {"title": "Quando não temos ordem de execução, por exemplo, ao gravar uma informação no banco de dados."},
+                           {"title": "O async serve para definir uma função como assíncrona, enquando o await obtêm o resultado da mesma."},
+                           {"title": "A Programação Assíncrona permite várias execuções e sem ordens exatas.", "isRight": true}
+           ]
+          },
+          {
+            "title": "No Flutter temos o arquivo ................, que engloba assets, packages e várias outras informações. Na aula de hoje, vimos sobre o package MLKit, um serviço de ................ do Firebase e que traz várias funcionalidades, como a de ................. . Além desse plugin, usamos o ................, que tira fotos e pega imagens da galeria.", 
+               "awnsers": [
+                           {"title": "pubspec.yaml | Machine Learning | Scannear código de barras | image_picker.", "isRight": true},
+                           {"title": "pubspec.yaml | Banco de Dados NoSQL | Realtime Database | camera."},
+                           {"title": "pubspec.lock | Machine Learning | Scannear de código de barras | image_picker."},
+                           {"title": "main.dart | Machine Learning | Realtime Database | image_picker."}
+           ]
+          } 
+        
+          ]
+    }
+]
