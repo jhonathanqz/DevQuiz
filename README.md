@@ -15,6 +15,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto devquiz, é um jogo de perguntas para avaliar os seus conhecimentos sobre o Flutter ou qualquer outro assunto, bastando apenas alimentar a fonte de dados.
 
+## 📱 Screenshots
+<div>
+  <img src="https://github.com/jhonathanqz/DevQuiz/blob/master/screenshots/home1.jpg" width="600px" style="max-width:100%;" alt="imagem do projeto">
+</div>
+
 ## ▶️ Como executar
 
 - Clone o repositório
